@@ -1,7 +1,5 @@
 # Jupyterlab-to-Go
-Syntax correction:
 This is a guide to show how to build a Python development environment on Windows x64 or arm64.
-
 Steps:
 1. Get the latest Python embedded edition ready from the Python website.
 2. Get get-pip.py ready from the pip website.
